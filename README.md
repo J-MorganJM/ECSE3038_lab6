@@ -1,0 +1,2 @@
+# IOT LAB 7
+This exercise uses a circuit based on the ESP32 that continuously sends POST requests in the form of a JSON to a server to be able to store the data read from the device in the conneceted database. 
